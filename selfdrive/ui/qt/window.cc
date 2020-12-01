@@ -10,7 +10,7 @@
 #include <QMouseEvent>
 
 #include "window.hpp"
-#include "offroad/input_field.hpp"
+#include "qt_window.hpp"
 #include "offroad/settings.hpp"
 #include "offroad/onboarding.hpp"
 
